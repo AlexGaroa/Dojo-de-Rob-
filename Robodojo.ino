@@ -1,5 +1,3 @@
-# Dojo-de-Rob-
-Código para o dojô de robô do Garoa
 //Dojo de Robô
 
 
