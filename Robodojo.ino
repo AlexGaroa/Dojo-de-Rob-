@@ -38,7 +38,7 @@ int m12 = 6; //pino 2 motor 1
 int m21 = 3; //pino 1 motor 2
 int m22 = 2; //pino 2 motor 2
 
-int m1 = 6; //pwm motor 1 - velocidade
+int m1 = 5; //pwm motor 1 - velocidade
 int m2 = 8; //pwm motor 2 - velocidade
 int s1 = 4; //sensor 1
 int s2 = 12; //sensor 2
