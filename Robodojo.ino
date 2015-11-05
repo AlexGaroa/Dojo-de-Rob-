@@ -33,13 +33,13 @@
 
 
 
-int m11 = 7; //pino 1 motor 1
-int m12 = 6; //pino 2 motor 1
-int m21 = 3; //pino 1 motor 2
-int m22 = 2; //pino 2 motor 2
+int m11 = 7; //pino 1 motor A (direito)
+int m12 = 6; //pino 2 motor A (direito)
+int m21 = 3; //pino 1 motor B (esquerdo)
+int m22 = 2; //pino 2 motor B (esquerdo)
 
-int m1 = 5; //pwm motor 1 - velocidade
-int m2 = 8; //pwm motor 2 - velocidade
+int m1 = 5; //pwm motor Esquerdo - velocidade
+int m2 = 8; //pwm motor Direito - velocidade
 int s1 = 4; //sensor 1
 int s2 = 12; //sensor 2
 
